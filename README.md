@@ -13,14 +13,14 @@ The project is organized as follows:
 
 ## Dependencies
 The project requires the following Python libraries with their respective versions:
-- pandas (version 1.5.3)
-- numpy (version 1.24.2)
-- matplotlib (version 3.7.1)
-- seaborn (version 0.12.2)
+- imbalanced-learn (version 0.11.0)
+- matplotlib (version 3.8.4)
+- numpy (version 1.26.4)
+- openpyxl (version 3.1.4)
+- pandas (version 2.2.2)
 - scikit-learn (version 1.4.2)
-- imbalanced-learn (version 0.10.1)
-- scipy (version 1.10.1)
-- openpyxl
+- scipy (version 1.13.1)
+- seaborn (version 0.12.2)
 
 You can install these dependencies using the provided `requirements.txt` file.
 
