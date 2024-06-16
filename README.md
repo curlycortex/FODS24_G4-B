@@ -14,7 +14,7 @@ The project is organized as follows:
 ## Dependencies
 The project requires the following Python libraries with their respective versions:
 - imbalanced-learn (version 0.11.0)
-- matplotlib (version 3.8.4)
+- matplotlib (version 3.6.0)
 - numpy (version 1.26.4)
 - openpyxl (version 3.1.4)
 - pandas (version 2.2.2)
