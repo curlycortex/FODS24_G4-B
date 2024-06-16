@@ -90,4 +90,4 @@ The project generates several output files, including:
 ## Running the Project
 - Ensure all dependencies are installed.
 - Place the dataset file (dataset.csv) in the project directory.
-- Run the Python script to execute the entire workflow.
+- Run the Python script `MLA_Project17_G4-B.py`to execute the entire workflow.
