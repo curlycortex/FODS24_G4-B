@@ -694,7 +694,6 @@ for ax, (conf_matrix, title) in zip(axes.flat, conf_matrices_LR):
     ax.set_ylabel('Actual')
 
 plt.tight_layout(rect=[0, 0, 1, 0.96])
-plt.show()
 plt.savefig('output/combined_confusion_matrices_LR.png')
 
 # Plotting ROC curves
