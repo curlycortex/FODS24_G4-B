@@ -34,7 +34,7 @@ The data cleaning process involves:
 - Dropping unnecessary columns.
 - Handling gender-specific data issues.
 - Dropping rows with remaining missing values.
- Converting data types to integers.
+- Converting data types to integers.
 - Exploratory Data Analysis (EDA)
 
 The EDA includes:
