@@ -33,7 +33,7 @@ The data cleaning process involves:
 - Creating a target variable AT_RISK.
 - Dropping unnecessary columns.
 - Handling gender-specific data issues.
-- -Dropping rows with remaining missing values.
+- Dropping rows with remaining missing values.
  Converting data types to integers.
 - Exploratory Data Analysis (EDA)
 
@@ -90,4 +90,5 @@ The project generates several output files, including:
 ## Running the Project
 - Ensure all dependencies are installed.
 - Place the dataset file (dataset.csv) in the project directory.
+- Verify that an output folder exists in the project directory to save the output files. If it doesn't exist, create it.
 - Run the Python script `MLA_Project17_G4-B.py`to execute the entire workflow.
